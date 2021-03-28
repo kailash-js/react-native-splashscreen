@@ -1,7 +1,7 @@
 {
   "name": "@kailash-js/react-native-splashscreen",
   "description": "A simple way to add splash screen to react-native app.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
       "react-native-component",
       "react-component",
@@ -23,7 +23,7 @@
     "email": "ltcaosj@gmail.com"
   },
   "homepage": "https://kailashjs.dev/docs/react-native-splashscreen/",
-  "main": "lib/index.js",    
+  "main": "index.js",    
   "publishConfig": {
     "access": "public"
   },
